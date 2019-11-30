@@ -1,0 +1,20 @@
+{
+  "name": "Weshare",
+  "version": "1.0.0",
+  "description": "Video sharing app",
+  "main": "server.js",
+  "scripts": {
+    "test": "jshint test.js"
+  },
+  "author": "Muppaneni S K M Sriniketh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "8.1.0",
+    "express": "*",
+    "lodash": "^4.17.13",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
