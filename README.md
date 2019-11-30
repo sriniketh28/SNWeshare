@@ -1,14 +1,15 @@
 # SNWeshare
 
+
 ## Steps to install
 
 1.Download the zip file and extract it.
 
-2.Open the terminal and cd to client(SNchatapp-master/chat/client).
+2.Open the terminal and cd to Weshare(SNWeshare-master/Weshare).
 
-3.Type ``` npm i ``` in the terminals.
+3.Type ``` npm i ``` in the terminal and then type ``` npm i --save ws ```.
 
-4.Then type ``` node server.js ``` in server terminal and then in client terminal.
+4.Then type ``` node server.js ``` in the terminal.
 
 ## SNWeshare
 
