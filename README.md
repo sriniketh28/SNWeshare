@@ -9,7 +9,7 @@ Weshare is also mobile-friendly.
 
 2.Open the terminal and cd to Weshare(SNWeshare-master/Weshare).
 
-3.Type ``` npm i ``` in the terminal and then type ``` npm i --save ws ```.
+3.Type ``` npm i ``` in the terminal.
 
 4.Then type ``` node server.js ``` in the terminal.
 
