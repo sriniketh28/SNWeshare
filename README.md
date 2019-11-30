@@ -13,6 +13,8 @@ Weshare is also mobile-friendly.
 
 4.Then type ``` node server.js ``` in the terminal.
 
+5.Then go to ``` localhost:3000/ ``` to see this app in function.
+
 ## SNWeshare
 
 **SNWeshare is live.**
