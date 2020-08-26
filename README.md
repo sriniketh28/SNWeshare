@@ -1,7 +1,6 @@
 # SNWeshare
 
-Weshare is a new video sharing platform used to watch videos in realtime with friends!
-Weshare is also mobile-friendly.
+SNWeshare is a video sharing platform used to watch videos in realtime with friends and chat with them alongside. You can watch youtube videos, dailymotion videos etc together with your friends. SNWeshare is also mobile-friendly.
 
 ## Steps to install
 
